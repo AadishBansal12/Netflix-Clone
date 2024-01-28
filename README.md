@@ -1,1 +1,3 @@
 # Netflix-Clone
+##Project for netflix clone 
+Need to learn more ? Checkout code of HTML,CSS JS ETC...
